@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842981235577",
+    "project_id": "pokemon-c6e86",
+    "storage_bucket": "pokemon-c6e86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842981235577:android:12ce26f0101da7e5ea6da8",
+        "android_client_info": {
+          "package_name": "com.juegolenhead.juegounap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842981235577-5h4so22f0cdm9lqvjbabsf70becq7amj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdHDGzxkXt_QaogYwWsP3ot0Rjrdw2HEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842981235577-5h4so22f0cdm9lqvjbabsf70becq7amj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
